@@ -5,4 +5,4 @@ scikit-learn==1.5.1
 joblib>=1.2.0
 plotly>=5.15.0
 matplotlib>=3.7.0
-streamlit-option-menu>=0.3.6
+streamlit-option-menu==0.4.0
