@@ -80,8 +80,6 @@ Our model successfully predicts employee salaries with notable accuracy.
     * **Mean Absolute Error (MAE):** [e.g., 14.3] - On average, predictions were off by a minimal amount.
     * **Mean Squared Error (MSE):** [e.g., 376.86]
 
-* **Influential Features:** Features like 'Years of Experience', 'Education Level', and 'Role/Department' were identified as the most significant drivers of salary.
-
 ## 🎬 Demo Video
 
 Watch a short demonstration of the AI Computer Vision Toolkit in action:
