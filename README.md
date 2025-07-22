@@ -89,7 +89,7 @@ Watch a short demonstration of the AI Computer Vision Toolkit in action:
 [https://employee-salary-prediction02.streamlit.app/]
 
 
-# 📸 Screenshots
+## 📸 Screenshots
 ![Correlation Heatmap of Data](https://github.com/satyajit-25/Employee-salary-prediction/blob/main/Result/newplot.png)
 ## 
 
