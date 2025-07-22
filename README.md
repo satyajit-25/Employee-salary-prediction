@@ -85,6 +85,13 @@ Our model successfully predicts employee salaries with notable accuracy.
 ## 📈 Exploratory Data Analysis (EDA)
 Visualizations from the Exploratory Data Analysis provided critical insights into the dataset, revealing correlations and relationships between various features and employee salaries.
 
+## 🎬 Demo Video
+
+Watch a short demonstration of the AI Computer Vision Toolkit in action:
+
+[https://employee-salary-prediction02.streamlit.app/]
+
+
 # 📸 Screenshots
 ![Correlation Heatmap of Data](https://github.com/satyajit-25/Employee-salary-prediction/blob/main/Result/newplot.png)
 ## 
