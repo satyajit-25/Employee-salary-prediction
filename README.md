@@ -98,7 +98,7 @@ Visualizations from the Exploratory Data Analysis provided critical insights int
 
 ## 🔗 GitHub Repository
 
-Access the complete source code, data (if applicable and anonymized), and the trained model file (`random_forest_regressor_salary_predictor_v3.pkl`) here:
+Access the complete source code, data (if applicable and anonymized), and the trained model file (`random_forest_regressor_salary_predictor_v4.pkl`) here:
 
 [https://github.com/satyajit-25/Employee-salary-prediction](https://github.com/satyajit-25/Employee-salary-prediction)
 
