@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: employee-salary-prediction
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port=$PORT --server.enableCORS=false
+    repo: https://github.com/satyajit-25/Employee-salary-prediction
+    branch: main
+    plan: free
