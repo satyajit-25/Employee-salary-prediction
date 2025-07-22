@@ -82,9 +82,6 @@ Our model successfully predicts employee salaries with notable accuracy.
 
 * **Influential Features:** Features like 'Years of Experience', 'Education Level', and 'Role/Department' were identified as the most significant drivers of salary.
 
-## 📈 Exploratory Data Analysis (EDA)
-Visualizations from the Exploratory Data Analysis provided critical insights into the dataset, revealing correlations and relationships between various features and employee salaries.
-
 ## 🎬 Demo Video
 
 Watch a short demonstration of the AI Computer Vision Toolkit in action:
