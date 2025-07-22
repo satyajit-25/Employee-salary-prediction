@@ -97,14 +97,7 @@ Watch a short demonstration of the AI Computer Vision Toolkit in action:
 ## 
 
 ![Feature Relation](https://github.com/satyajit-25/Employee-salary-prediction/blob/main/Result/newplot%20(2).png)
-# 
-
-
-## 🔗 GitHub Repository
-
-Access the complete source code, data (if applicable and anonymized), and the trained model file (`random_forest_regressor_salary_predictor_v4.pkl`) here:
-
-[https://github.com/satyajit-25/Employee-salary-prediction](https://github.com/satyajit-25/Employee-salary-prediction)
+##
 
 ## 🤝 Contributing
 
